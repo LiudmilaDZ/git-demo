@@ -1,2 +1,5 @@
 - things to do
 practice Java
+
+added new things
+Java
